@@ -1,0 +1,13 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: cube room 5 by 5
+Author: Maya S
+URL: https://poly.google.com/view/9bpcHu-BrUk
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Low-Poly Bear
+Author: Anastasiia Ku
+URL: https://poly.google.com/view/8UWKEA5VrGh
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
