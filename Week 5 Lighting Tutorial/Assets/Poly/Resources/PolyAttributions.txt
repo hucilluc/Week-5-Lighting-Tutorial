@@ -6,8 +6,20 @@ URL: https://poly.google.com/view/9bpcHu-BrUk
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
+Title: Great egret
+Author: Poly by Google
+URL: https://poly.google.com/view/4GacWAa1lit
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: Low-Poly Bear
 Author: Anastasiia Ku
 URL: https://poly.google.com/view/8UWKEA5VrGh
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Low-poly Raccoon
+Author: Anastasiia Ku
+URL: https://poly.google.com/view/3666r5ufIMd
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
